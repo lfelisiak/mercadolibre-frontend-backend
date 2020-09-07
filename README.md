@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img src="https://http2.mlstatic.com/frontend-assets/ui-navigation/5.10.1/mercadolibre/logo__large_plus.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">mercadolibre-frontend-backend</h3>
@@ -29,16 +29,16 @@
 ## 🧐 Sobre el Proyecto <a name = "about"></a>
 
 Este proyecto es una demo del buscador de MercadoLibre se hizo utilizando el siguiente stack:
-*Para el Front:
-..* ReactJS
-..* React Router v5
-..* React Bootstrap 
-..* Axios
-*Para el Back
-..* NodeJS,
-..* TypeScript
-..* Express
-..* Axios
+* Para el Front:
+  * ReactJS
+  * React Router v5
+  * React Bootstrap 
+  * Axios
+* Para el Back
+  * NodeJS,
+  * TypeScript
+  * Express
+  * Axios
 
 ## 🏁 Comenzando <a name = "getting_started"></a>
 
