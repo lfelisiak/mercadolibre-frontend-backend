@@ -75,6 +75,8 @@ En el back:
 
 - [ReactJS](https://es.reactjs.org/) - JavaScript Library
 - [React Router](https://reactrouter.com/web/) - Collection of navigational components
+- [React Bootstrap](https://react-bootstrap.github.io/) - React Ready Bootstrap
+- [React i18n](https://react.i18next.com/) - Internationalization framework for React
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [TypeScript](https://nodejs.org/en/) - Programming Language (Javascript SuperSet)
 - [Express](https://expressjs.com/) - Server Framework
