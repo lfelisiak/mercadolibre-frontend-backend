@@ -1,0 +1,49 @@
+@import './Custom.css';
+.img-rounded{
+    border-radius: 4px;
+}
+/* Breadcrumb */
+.breadcrumb li span{
+    color:#999
+}
+.breadcrumb li:last-child span {
+    font-weight: bold;
+}
+.breadcrumb-item::before{
+    padding-right: 0;
+}
+.breadcrumb .breadcrumb-item::before {
+    content: "";
+}
+.breadcrumb-item{
+    columns: #999999;
+}
+.breadcrumb-item svg{
+    margin-left:0.5rem;
+}
+/* main */
+.thumb{
+    border-radius: 4px;
+}
+.card{
+    border:0;
+}
+.itemsContainer{
+    background-color:white;
+}
+.card.itemList > * > * {
+    cursor: pointer;
+}
+/*Item Detail*/
+.buyIt{
+    background-color: #3483FA;
+}
+sup{
+    top: 1.2em;
+    font-size: 50%;
+}
+.cantVendidos::before{
+    content:"-";
+    margin-left:0.25rem;
+    margin-right:0.25rem;
+}
